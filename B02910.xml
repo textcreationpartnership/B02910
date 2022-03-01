@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Defiance to the Dutch.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02910</idno>
+            <idno type="OCLC"> 15601488</idno>
+            <idno type="STC">Wing D824</idno>
+            <idno type="STC">Interim Tract Supplement Guide Lutt.III[83]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[94]</idno>
+            <idno type="STC">ESTC R36085</idno>
+            <idno type="EEBO-CITATION">99890128</idno>
+            <idno type="PROQUEST">ocm99890128</idno>
+            <idno type="VID">181421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02910)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181421)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C6:1[85]; A1:1[95])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Defiance to the Dutch.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.W.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Rob'd of our rights? and, by such water-".</note>
+                  <note>"With allowance."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Poetry --  Early works to 1800.</term>
+               <term>Dutch War, 1672-1678 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181421:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>DEFIANCE TO THE DUTCH.</head>
+            <lg>
+               <l>ROb'd of our Rights? and, By ſuch <hi>Water-Rats?</hi>
+               </l>
+               <l>Wee'l doff their Heads, if they won't doff their Hats.</l>
+               <l>Affront too <hi>Hogan-Mogan</hi> to endure!</l>
+               <l>Tis time to BOX theſe <hi>Butterboxes</hi> ſure.</l>
+               <l>If they the Flagg's, undoubted Right, deny us;</l>
+               <l>Who won't Strike to us, muſt be ſtricken by us.</l>
+               <l>A Crew of <hi>Bores</hi> and <hi>Sooterkins,</hi> that know</l>
+               <l>Themſelves, they to Our Blood and Valour owe!</l>
+               <l>Did We for this knock off their <hi>Spaniſh</hi>-Fetters,</l>
+               <l>To make 'um able to abuſe their Betters?</l>
+               <l>If at this rate they Rave, I think 'tis good</l>
+               <l>Not to omit the <hi>Spring,</hi> but Let 'um Blood.</l>
+            </lg>
+            <lg>
+               <l>Rouſe then Heroick <hi>Britains;</hi> 'tis not Words,</l>
+               <l>But Wounds, muſt Work with <hi>Leather-Apron-Lords.</hi>
+               </l>
+               <l>They'r Deaf, and muſt be Talkt withall; alaſs!</l>
+               <l>With Words of Iron ſpoke by Mouths of Braſs.</l>
+               <l>I hope we ſhall to purpoſe the next Bout</l>
+               <l>Cure 'um, as we did <hi>Opdam,</hi> of the <hi>Gout.</hi>
+               </l>
+               <l>And, when i'th' bottome of the Sea they come,</l>
+               <l>They'l have enough of <hi>Mare Liberum.</hi>
+               </l>
+               <l>Our Brandiſht ſteel, though now they ſeem ſo Tall,</l>
+               <l>Shall make 'um <hi>Lower</hi> than <hi>Low-Countries</hi> Fall.</l>
+               <l>But they'l ere long come to themſelves you'l ſee,</l>
+               <l>When we in earneſt are at <hi>Snick a Snee:</hi>
+               </l>
+               <l>When once the <hi>Bores</hi> perceive our Swords are drawn.</l>
+               <l>And we Converting are thoſe <hi>Bores</hi> to <hi>Brawn.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Methinks the Ruine of their <hi>Belgick</hi>-Banners</l>
+               <l>(Laſt Fight, almoſt as Ragged as their Manners)</l>
+               <l>Might have Perſwaded 'um to better things,</l>
+               <l>Than be ſo Sawcy with the beſt of Kings.</l>
+               <l>Is it of Wealth they are ſo Proud become?</l>
+               <l>
+                  <hi>CHARLES</hi> has a Waine I hope to fetch it home;</l>
+               <l>And with it Pay Himſelf His Juſt Arrears</l>
+               <l>Of <hi>Fiſhing</hi>-Tribute for this Hundred years.</l>
+               <l>That we may ſay, as all the Store comes in,</l>
+               <l>The <hi>Dutch,</hi> alaſs, have but our Factors been:</l>
+               <l>They Fathom <hi>Sea</hi> and <hi>Land;</hi> We, when we pleaſe,</l>
+               <l>Have both the <hi>Indies</hi> brought to our Own Seas.</l>
+               <l>For Rich and Proud they bring in Ships by Shoules;</l>
+               <l>And then we Humble them to ſave their Souls.</l>
+            </lg>
+            <lg>
+               <l>'Pox of their Pictures; if we had 'um here</l>
+               <l>Wee'd find 'um Frames at <hi>Tyburne,</hi> or elſewhere.</l>
+               <l>The next they <hi>DRAW,</hi> be it their <hi>Admiralls</hi>
+               </l>
+               <l>Tranſpeciated, into <hi>Fynnes,</hi> and <hi>Scales:</hi>
+               </l>
+               <l>Or, which ſhould do as well, <hi>DRAW,</hi> if they pleaſe,</l>
+               <l>
+                  <hi>Opdam,</hi> with the <hi>Seven Sinking Provinces;</hi>
+               </l>
+               <l>Or <hi>DRAW</hi> their <hi>Captains</hi> from the Conqu'ring Maine,</l>
+               <l>Firſt Beaten Home, then beaten Back again.</l>
+               <l>Laſtly, Remember, to prevent all Laughter,</l>
+               <l>
+                  <hi>Drawing</hi> goes Firſt, but <hi>Hanging</hi> Follows after:</l>
+               <l>And after this ſo JUST, though FATAL Strife,</l>
+               <l>
+                  <hi>Draw</hi> their dead Bores again unto the <hi>LIFE.</hi>
+               </l>
+               <l>If then, Lampooning thus be their Undoing,</l>
+               <l>Who pities them that Purchaſe their own Ruine?</l>
+            </lg>
+            <lg>
+               <l>Who will hereafter truſt their <hi>Treacheries,</hi>
+               </l>
+               <l>Unleſs they leave their Heads for Hoſtages?</l>
+               <l>For, as before of <hi>Women</hi> has been ſaid,</l>
+               <l>Believe 'um not, nay, though ye think 'um dead.</l>
+               <l>The <hi>Dutch</hi> are Stubborn, and will yield no FRUIT,</l>
+               <l>Till, like the <hi>Wallnut-Tree,</hi> ye Beat 'um to't.</l>
+            </lg>
+            <q>
+               <bibl>L. Orat. </bibl>
+               <l>
+                  <hi>Injurias &amp; non redditas Cauſam hujuſce</hi>
+               </l>
+               <l>
+                  <hi> Eſſe belli audiſſe videor.</hi>
+               </l>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>LONDON, <hi>Printed for</hi> T. W. 1672.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
